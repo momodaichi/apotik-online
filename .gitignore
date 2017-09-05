@@ -1,0 +1,8 @@
+/vendor
+/.idea
+/.idea/workspace.xml
+composer.lock
+/assets/images/setting
+/public/images/prescription
+/gcm
+app/config/database.php
